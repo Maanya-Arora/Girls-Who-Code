@@ -1,3 +1,3 @@
-# GWC Repo 
-## SSP Course Curriculum Projects
+# GWC 2023 
+## SPP Course Curriculum Projects
 Data Science, Cybersecurity, Web Dev
