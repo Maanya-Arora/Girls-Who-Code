@@ -1,3 +1,4 @@
 # Girls Who Code 2023
 ## SPP Course Curriculum Projects
-data science cybersecurity and web dev
+Introduction to Data Science
+Data Science for Good
