@@ -3,4 +3,4 @@
 
 Introduction to Data Science
 
- & Data Science for Good
+Data Science for Good
